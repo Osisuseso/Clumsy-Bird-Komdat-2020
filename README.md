@@ -10,13 +10,13 @@
 
 ## Instalasi
 [`^ kembali ke atas ^`](#)
-#### Kebutuhan Sistem:
+#### Kebutuhan Sistem :
 1. Linux
 2. Nodejs v8.10.0
 3. Grunt v1.0.4
 4. Grunt-cli v1.2.0
 
-#### Proses Instalasi:
+#### Proses Instalasi :
 1. *Install* seluruh paket sistem yang dibutuhkan, seperti `Nodejs`, `Grunt`, dan `Grunt-cli`.
 ```
 $ sudo apt update
