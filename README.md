@@ -21,42 +21,42 @@ $ sudo apt install npm
 $ sudo apt install node-grunt-cli
 $ sudo apt instal grunt
 ```
-2. Clone **Clumsy Bird** ke dalam direktory
+2. Clone **Clumsy Bird** ke dalam direktory.
 ```
 $ git clone https://github.com/ellisonleao/clumsy-bird
 ```
-3. pindahkan direktory ke dalam folder clumsy bird
+3. pindahkan direktory ke dalam folder clumsy bird.
 ```
 $ cd clumsy-bird
 ```
-4. Install modul yang diperlukan dan masuk ke dalam grunt
+4. Install modul yang diperlukan dan masuk ke dalam grunt.
 ```
 $ sudo npm install grunt-contrib-uglify
 $ sudo npm install grunt-contrib-connect
 $ grunt connect
 ```
-5. Setelah selesai, masuk ke alamat `http://localhost:8001/`
+5. Setelah selesai, masuk ke alamat `http://localhost:8001/`.
 
-## Pengaturan Tambahan [ELANG]
+## Pengaturan Tambahan
 Jika ingin mengubah tampilan dari permainan **Clumsy Bird**, dapat dilakukan dengan cara:
-1. Download gambar yang diinginkan, misal kita akan mendownload gambar untuk dijadkan background yang baru
+1. Download gambar yang diinginkan, misal kita akan mendownload gambar untuk dijadkan background yang baru.
 **(MASUKKIN GAMBAR WOY LANG)**
-2. Masukkan gambar ke dalam file `clumsy-bird/data/img`
+2. Masukkan gambar ke dalam file `clumsy-bird/data/img`.
 **(MASUKKIN GAMBAR WOY LANG)**
-3. Ubah nama gambar tersebut menjadi `bg.png`
+3. Ubah nama gambar tersebut menjadi `bg.png`.
 **(MASUKKIN GAMBAR WOY LANG)**
-4. Jalankan `grunt connect` pada command line
+4. Jalankan `grunt connect` pada command line.
 **(MASUKKIN GAMBAR WOY LANG)**
-5. Setelah selesai, masuk ke alamat `http://localhost:8001/`
+5. Setelah selesai, masuk ke alamat `http://localhost:8001/`.
 **(MASUKKIN GAMBAR WOY LANG)**
 6. Jika ingin mengkonfigurasi gambar lainnya, ulangi langkah yang sama dengan tidak mengubah nama dan ukuran gambar asli.
 **(MASUKKIN GAMBAR WOY LANG)**
 
-## Cara Bermain [ELANG]
+## Cara Bermain
 Cara memainkan **Clumsy Bird** cukup dengan menekan tombol `Space` atau `left-click` untuk lompat dan tombol `M` untuk mematikan suara.
 **(MASUKKIN GAMBAR WOY LANG)**
 
-## Pembahasan (OSI)
+## Pembahasan
 **Clumsy Bird** ditulis dalam bahasa pemrograman `JavaScript`. **Clumsy Bird** memiliki  beberapa kelebihan, diantaranya :
        * Permainan ini cenderung mudah untuk dimainkan karena hanya cukup menekan tombol `Space` atau `left-click`.
        * Permainan ini relatif ringan untuk dijalankan sehingga tidak membutuhkan spesifikasi hardware yang tinggi.
@@ -67,5 +67,6 @@ Cara memainkan **Clumsy Bird** cukup dengan menekan tombol `Space` atau `left-cl
 Jika dibandingkan dengan aplikasi sejenis, yaitu Flappy Bird. **Clumsy Bird** yang hadir sebagai pengganti permainan terdahulunya, mampu membawa suasana permainan yang sama dengan tampilan dan gameplay yang sama dengan Flappy Bird. Tetapi, **Clumsy Bird** masih memiliki beberapa kekurangan, diantaranya **Clumsy Bird** memiliki pegerakan yang cenderung kaku, jika dibandingkan permainan Flappy Bird.  
 
 ## Referensi
-1. []
-Cantumkan tiap sumber informasi yang anda pakai.
+1. [Clumsy Bird](https://github.com/ellisonleao/clumsy-bird) - Ellisonleao Github
+2. [Getting Started](https://gruntjs.com/getting-started) - Grunt: The JavaScript Task Runner
+3. [How to Install Node.js and NPM on Ubuntu 18.04](https://www.hostinger.com/tutorials/how-to-install-node-ubuntu) - Hostinger Tutorial
