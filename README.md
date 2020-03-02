@@ -57,7 +57,7 @@ Cara memainkan **Clumsy Bird** cukup dengan menekan tombol `Space` atau `left-cl
 **(MASUKKIN GAMBAR WOY LANG)**
 
 ## Pembahasan (OSI)
-**Clumsy Bird** ditulis dalam bahasa pemrograman `Java Script`. **Clumsy Bird** memiliki  beberapa kelebihan, diantaranya :
+**Clumsy Bird** ditulis dalam bahasa pemrograman `JavaScript`. **Clumsy Bird** memiliki  beberapa kelebihan, diantaranya :
        * Permainan ini cenderung mudah untuk dimainkan karena hanya cukup menekan tombol `Space` atau `left-click`.
        * Permainan ini relatif ringan untuk dijalankan sehingga tidak membutuhkan spesifikasi hardware yang tinggi.
        * Permainan ini bisa dimodifikasi tampilannya sehingga tidak akan cepat bosan untuk dimainkan.
