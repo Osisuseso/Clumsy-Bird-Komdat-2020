@@ -44,7 +44,7 @@ $ grunt connect
 ## Pengaturan Tambahan
 [`^ kembali ke atas ^`](#)
 Jika ingin mengubah tampilan dari permainan **Clumsy Bird**, dapat dilakukan dengan cara :
-1. Download gambar yang diinginkan, misal kita akan mendownload gambar untuk dijadkan background yang baru.
+1. *Download* gambar yang diinginkan, misal kita akan mendownload gambar untuk dijadkan background yang baru.
 
 ![](https://github.com/Osisuseso/Clumsy-Bird-Komdat-2020/blob/master/Images/New%20BG.png)
 
@@ -67,8 +67,6 @@ $ grunt connect
 ![](https://github.com/Osisuseso/Clumsy-Bird-Komdat-2020/blob/master/Images/New%20Game%20Play%202.png)
 
 6. Jika ingin mengkonfigurasi gambar lainnya, ulangi langkah yang sama dengan tidak mengubah nama dan ukuran gambar asli.
-
-![](https://github.com/Osisuseso/Clumsy-Bird-Komdat-2020/blob/master/Images/Gameplay%201.png)
 
 ## Cara Bermain
 [`^ kembali ke atas ^`](#)
