@@ -12,7 +12,6 @@ Kebutuhan Sistem:
 3. Grunt v1.0.4
 4. Grunt-cli v1.2.0
 
-
 ## Konfigurasi (opsional) (ELANG)
 
 Setting server tambahan yang diperlukan untuk meningkatkan fungsi dan kinerja aplikasi, misalnya:
