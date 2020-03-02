@@ -12,6 +12,30 @@ Kebutuhan Sistem:
 3. Grunt v1.0.4
 4. Grunt-cli v1.2.0
 
+####Proses Instalasi:
+1. Install seluruh paket sistem yang dibutuhkan, seperti `Nodejs`, `Grunt`, dan `Grunt-cli`.
+```
+$ sudo apt update
+$ sudo apt install nodejs
+$ npm update -g npm
+$ sudo apt install node-grunt-cli
+```
+2. Clone **Clumsy Bird** ke dalam direktory
+```
+$ git clone https://github.com/ellisonleao/clumsy-bird
+```
+3. pindahkan direktory ke dalam folder clumsy bird
+```
+$ cd/clumsy-bird
+```
+4. Install modul yang diperlukan dan masuk ke dalam grunt
+```
+$ sudo npm install grunt-contrib-uglify
+$ sudo npm install grunt-contrib-connect
+$ grunt connect
+```
+5. Setelah selesai, masuk ke alamat `http://localhost:8001/`
+
 ## Konfigurasi (opsional) (ELANG)
 
 Setting server tambahan yang diperlukan untuk meningkatkan fungsi dan kinerja aplikasi, misalnya:
