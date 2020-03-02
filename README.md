@@ -38,6 +38,18 @@ $ grunt connect
 5. Setelah selesai, masuk ke alamat `http://localhost:8001/`
 
 ## Pengaturan Tambahan [ELANG]
+Jika ingin mengubah tampilan dari permainan **Clumsy Bird**, dapat dilakukan dengan cara:
+1. Download gambar yang diinginkan, misal kita akan mendownload gambar untuk dijadkan background yang baru
+(MASUKKIN GAMBAR WOY LANG)
+2. Masukkan gambar ke dalam file `clumsy-bird/data/img`
+(MASUKKIN GAMBAR WOY LANG)
+3. Ubah nama gambar tersebut menjadi `bg.png`
+(MASUKKIN GAMBAR WOY LANG)
+4. Jalankan `grunt connect` pada command line
+(MASUKKIN GAMBAR WOY LANG)
+5. Setelah selesai, masuk ke alamat `http://localhost:8001/`
+(MASUKKIN GAMBAR WOY LANG)
+6. Jika ingin mengkonfigurasi gambar lainnya, lakukan hal yang sama seperti pada langkah nomor 3.
 
 ## Cara Pemakaian [ELANG]
 
