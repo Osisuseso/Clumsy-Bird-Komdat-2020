@@ -6,7 +6,7 @@
 
 ## Sekilas Tentang
 
-**Clumsy Bird** merupakan sebuah clone dari permainan Flappy Bird yang cukup terkenal pada tahun 2013. Permainan ini mulai dibuat clonenya pada tahun 2014 semenjak permainan Flappy Bird ditutup. Clone ini dibuat oleh contributor [ellionsonleao](https://github.com/ellisonleao). Sampai saat ini, clone tersebut masih selalu diperbaharui sehingga siapapun yang ingin memainkannya bisa langsung clone github tersebut. 
+**Clumsy Bird** merupakan sebuah *clone* dari permainan Flappy Bird yang cukup terkenal pada tahun 2013. Permainan ini mulai dibuat *clone*-nya pada tahun 2014 semenjak permainan Flappy Bird ditutup. *Clone* ini dibuat oleh kontributor [ellionsonleao](https://github.com/ellisonleao). Sampai saat ini, *clone* tersebut masih selalu diperbaharui sehingga siapapun yang ingin memainkannya bisa langsung *clone*you  github tersebut. 
 
 ## Instalasi
 [`^ kembali ke atas ^`](#)
@@ -17,7 +17,7 @@
 4. Grunt-cli v1.2.0
 
 #### Proses Instalasi:
-1. Install seluruh paket sistem yang dibutuhkan, seperti `Nodejs`, `Grunt`, dan `Grunt-cli`.
+1. *Install* seluruh paket sistem yang dibutuhkan, seperti `Nodejs`, `Grunt`, dan `Grunt-cli`.
 ```
 $ sudo apt update
 $ sudo apt install nodejs
@@ -25,15 +25,15 @@ $ sudo apt install npm
 $ sudo apt install node-grunt-cli
 $ sudo apt instal grunt
 ```
-2. Clone **Clumsy Bird** ke dalam direktory.
+2. *Clone* **Clumsy Bird** ke dalam direktori.
 ```
 $ git clone https://github.com/ellisonleao/clumsy-bird
 ```
-3. pindahkan direktory ke dalam folder clumsy bird.
+3. Pindahkan direktori ke dalam folder 'clumsy-bird'.
 ```
 $ cd clumsy-bird
 ```
-4. Install modul yang diperlukan dan masuk ke dalam grunt.
+4. *Install* modul yang diperlukan dan masuk ke dalam 'grunt'.
 ```
 $ sudo npm install grunt-contrib-uglify
 $ sudo npm install grunt-contrib-connect
@@ -43,14 +43,14 @@ $ grunt connect
 
 ## Pengaturan Tambahan
 [`^ kembali ke atas ^`](#)
-Jika ingin mengubah tampilan dari permainan **Clumsy Bird**, dapat dilakukan dengan cara:
+Jika ingin mengubah tampilan dari permainan **Clumsy Bird**, dapat dilakukan dengan cara :
 1. Download gambar yang diinginkan, misal kita akan mendownload gambar untuk dijadkan background yang baru.
 **(MASUKKIN GAMBAR WOY LANG)**
 2. Masukkan gambar ke dalam file `clumsy-bird/data/img`.
 **(MASUKKIN GAMBAR WOY LANG)**
 3. Ubah nama gambar tersebut menjadi `bg.png`.
 **(MASUKKIN GAMBAR WOY LANG)**
-4. Jalankan `grunt connect` pada command line.
+4. Jalankan `grunt connect` pada *command line*.
 **(MASUKKIN GAMBAR WOY LANG)**
 5. Setelah selesai, masuk ke alamat `http://localhost:8001/`.
 **(MASUKKIN GAMBAR WOY LANG)**
@@ -66,7 +66,7 @@ Cara memainkan **Clumsy Bird** cukup dengan menekan tombol `Space` atau `left-cl
 [`^ kembali ke atas ^`](#)
 **Clumsy Bird** ditulis dalam bahasa pemrograman `JavaScript`. **Clumsy Bird** memiliki  beberapa kelebihan, diantaranya :
        * Permainan ini cenderung mudah untuk dimainkan karena hanya cukup menekan tombol `Space` atau `left-click`.
-       * Permainan ini relatif ringan untuk dijalankan sehingga tidak membutuhkan spesifikasi hardware yang tinggi.
+       * Permainan ini relatif ringan untuk dijalankan sehingga tidak membutuhkan spesifikasi *hardware* yang tinggi.
        * Permainan ini bisa dimodifikasi tampilannya sehingga tidak akan cepat bosan untuk dimainkan.
 
 **Clumsy Bird** juga masih memiliki kekurangan, salah satu nya adalah permainan ini hanya berjalan di server lokal.  
