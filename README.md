@@ -45,17 +45,30 @@ $ grunt connect
 [`^ kembali ke atas ^`](#)
 Jika ingin mengubah tampilan dari permainan **Clumsy Bird**, dapat dilakukan dengan cara :
 1. Download gambar yang diinginkan, misal kita akan mendownload gambar untuk dijadkan background yang baru.
-**(MASUKKIN GAMBAR WOY LANG)**
+
+![](https://github.com/Osisuseso/Clumsy-Bird-Komdat-2020/blob/master/Images/New%20BG.png)
+
 2. Masukkan gambar ke dalam file `clumsy-bird/data/img`.
-**(MASUKKIN GAMBAR WOY LANG)**
+
+![](https://github.com/Osisuseso/Clumsy-Bird-Komdat-2020/blob/master/Images/New%20BG%202.png)
+
 3. Ubah nama gambar tersebut menjadi `bg.png`.
-**(MASUKKIN GAMBAR WOY LANG)**
+
+![](https://github.com/Osisuseso/Clumsy-Bird-Komdat-2020/blob/master/Images/New%20BG%203.png)
+
 4. Jalankan `grunt connect` pada *command line*.
-**(MASUKKIN GAMBAR WOY LANG)**
+```
+$ grunt connect
+```
 5. Setelah selesai, masuk ke alamat `http://localhost:8001/`.
-**(MASUKKIN GAMBAR WOY LANG)**
+
+![](https://github.com/Osisuseso/Clumsy-Bird-Komdat-2020/blob/master/Images/New%20Game%20Play%201.png)
+
+![](https://github.com/Osisuseso/Clumsy-Bird-Komdat-2020/blob/master/Images/New%20Game%20Play%202.png)
+
 6. Jika ingin mengkonfigurasi gambar lainnya, ulangi langkah yang sama dengan tidak mengubah nama dan ukuran gambar asli.
-**(MASUKKIN GAMBAR WOY LANG)**
+
+![](https://github.com/Osisuseso/Clumsy-Bird-Komdat-2020/blob/master/Images/Gameplay%201.png)
 
 ## Cara Bermain
 [`^ kembali ke atas ^`](#)
