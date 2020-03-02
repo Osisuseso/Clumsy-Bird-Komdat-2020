@@ -8,8 +8,9 @@
 ## Instalasi
 Kebutuhan Sistem:
 1. Linux
-2. Nodejs 8.10.0
-3. Grunt
+2. Nodejs v8.10.0
+3. Grunt v1.0.4
+4. Grunt-cli v1.2.0
 
 
 ## Konfigurasi (opsional) (ELANG)
