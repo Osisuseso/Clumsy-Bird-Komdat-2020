@@ -1,9 +1,9 @@
 # Clumsy Bird
-![Clumsy Bird](https://github.com/Osisuseso/Clumsy-Bird-Komdat-2020/blob/master/Images/flappy%20bird%20icon.png)
+<h1 align="center"><img src="https://github.com/Osisuseso/Clumsy-Bird-Komdat-2020/blob/master/Images/flappy%20bird%20icon.png"></h1>
 
 ## Sekilas Tentang
 
-**Clumsy Bird** adalah sebuah PermainanCMS (content management system) aplikasi web e-commerce yang gratis dan Open Source. Aplikasi ini mulai beroperasi pada tahun 2005 sebagai proyek dari seorang murid EPITECH IT School di Paris, Perancis, yang awalnya bernama phpOpenStore. Hingga saat ini, Prestashop telah berkembang pesat dan berkomitmen untuk memberikan pengalaman berbelanja terbaik untuk para pedagang dan pelanggannya.
+**Clumsy Bird** merupakan sebuah clone dari permainan Flappy Bird yang cukup terkenal pada tahun 2013. Permainan ini mulai dibuat clonenya pada tahun 2014 semenjak permainan Flappy Bird ditutup. Clone ini dibuat oleh [ellionsonleao](https://github.com/ellisonleao) mulai beroperasi pada tahun 2005 sebagai proyek dari seorang murid EPITECH IT School di Paris, Perancis, yang awalnya bernama phpOpenStore. Hingga saat ini, Prestashop telah berkembang pesat dan berkomitmen untuk memberikan pengalaman berbelanja terbaik untuk para pedagang dan pelanggannya.
 
 ## Instalasi
 
