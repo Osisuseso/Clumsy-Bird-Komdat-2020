@@ -60,7 +60,7 @@ Jika ingin mengubah tampilan dari permainan **Clumsy Bird**, dapat dilakukan den
 ## Cara Bermain
 [`^ kembali ke atas ^`](#)
 Cara memainkan **Clumsy Bird** cukup dengan menekan tombol `Space` atau `left-click` untuk lompat dan tombol `M` untuk mematikan suara.
-**(MASUKKIN GAMBAR WOY LANG)**
+
 
 ## Pembahasan
 [`^ kembali ke atas ^`](#)
