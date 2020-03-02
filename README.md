@@ -36,31 +36,7 @@ $ grunt connect
 ```
 5. Setelah selesai, masuk ke alamat `http://localhost:8001/`
 
-## Konfigurasi (opsional) (ELANG)
-
-Setting server tambahan yang diperlukan untuk meningkatkan fungsi dan kinerja aplikasi, misalnya:
-- batas upload file
-- batas memori
-- dll
-
-Plugin untuk fungsi tambahan
-- login dengan Google/Facebook
-- editor Markdown
-- dll
-
-
-##  Maintenance (opsional) [ELANG]
-
-Setting tambahan untuk maintenance secara periodik, misalnya:
-- buat backup database tiap pekan
-- hapus direktori sampah tiap hari
-- dll
-
-
-## Otomatisasi (opsional) [ELANG]
-
-Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
-
+## Pengaturan Tambahan [ELANG]
 
 ## Cara Pemakaian [ELANG]
 
