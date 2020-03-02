@@ -57,13 +57,14 @@ Cara memainkan **Clumsy Bird** cukup dengan menekan tombol `Space` atau `left-cl
 **(MASUKKIN GAMBAR WOY LANG)**
 
 ## Pembahasan (OSI)
-**Clumsy Bird** ditulis dalam bahasa pemrograman `Java Script`. **Clumsy Bird** memiliki  kelebihan, yaitu **Clumsy Bird** yang hadir sebagai pengganti permainan terdahulunya, yaitu Flappy Bird, mampu membawa suasana permainan yang sama dengan tampilan dan gameplay yang sama dengan Flappy Bird. Tetapi, **Clumsy Bird** masih memiliki beberapa kekurangan, diantaranya **Clumsy Bird** memiliki pegerakan yang cenderung kaku, jika dibandingkan permainan Flappy Bird.  
+**Clumsy Bird** ditulis dalam bahasa pemrograman `Java Script`. **Clumsy Bird** memiliki  beberapa kelebihan, diantaranya :
+       * Permainan ini cenderung mudah untuk dimainkan karena hanya cukup menekan tombol `Space` atau `left-click`.
+       * Permainan ini relatif ringan untuk dijalankan sehingga tidak membutuhkan spesifikasi hardware yang tinggi.
+       * Permainan ini bisa dimodifikasi tampilannya sehingga tidak akan cepat bosan untuk dimainkan.
 
-- Pendapat anda tentang aplikasi web ini
-    - kelebihan
-    - kekurangan
-- Bandingkan dengan aplikasi web lain yang sejenis
+**Clumsy Bird** juga masih memiliki kekurangan, salah satu nya adalah permainan ini hanya berjalan di server lokal.  
 
+Jika dibandingkan dengan aplikasi sejenis, yaitu Flappy Bird. **Clumsy Bird** yang hadir sebagai pengganti permainan terdahulunya, mampu membawa suasana permainan yang sama dengan tampilan dan gameplay yang sama dengan Flappy Bird. Tetapi, **Clumsy Bird** masih memiliki beberapa kekurangan, diantaranya **Clumsy Bird** memiliki pegerakan yang cenderung kaku, jika dibandingkan permainan Flappy Bird.  
 
 ## Referensi
 1. []
