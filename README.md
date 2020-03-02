@@ -1,5 +1,5 @@
 # Clumsy Bird
-![Clumsy Bird](https://github.com/Osisuseso/Clumsy-Bird-Komdat-2020/blob/master/Images/flappy%20bird%20icon.png)
+![Clumsy Bird](https://github.com/Osisuseso/Clumsy-Bird-Komdat-2020/blob/master/Images/flappy%20bird%20icon.png, align="center")
 
 ## Sekilas Tentang
 
