@@ -9,7 +9,7 @@
 Kebutuhan Sistem:
 1. Linux
 2. Nodejs 8.10.0
-3. 
+3. Grunt
 
 
 ## Konfigurasi (opsional) (ELANG)
