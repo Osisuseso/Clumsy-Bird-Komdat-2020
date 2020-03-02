@@ -6,6 +6,7 @@
 **Clumsy Bird** merupakan sebuah clone dari permainan Flappy Bird yang cukup terkenal pada tahun 2013. Permainan ini mulai dibuat clonenya pada tahun 2014 semenjak permainan Flappy Bird ditutup. Clone ini dibuat oleh contributor [ellionsonleao](https://github.com/ellisonleao). Sampai saat ini, clone tersebut masih selalu diperbaharui sehingga siapapun yang ingin memainkannya bisa langsung clone github tersebut. 
 
 ## Instalasi
+[`^ kembali ke atas ^`](#)
 #### Kebutuhan Sistem:
 1. Linux
 2. Nodejs v8.10.0
@@ -38,6 +39,7 @@ $ grunt connect
 5. Setelah selesai, masuk ke alamat `http://localhost:8001/`.
 
 ## Pengaturan Tambahan
+[`^ kembali ke atas ^`](#)
 Jika ingin mengubah tampilan dari permainan **Clumsy Bird**, dapat dilakukan dengan cara:
 1. Download gambar yang diinginkan, misal kita akan mendownload gambar untuk dijadkan background yang baru.
 **(MASUKKIN GAMBAR WOY LANG)**
@@ -53,10 +55,12 @@ Jika ingin mengubah tampilan dari permainan **Clumsy Bird**, dapat dilakukan den
 **(MASUKKIN GAMBAR WOY LANG)**
 
 ## Cara Bermain
+[`^ kembali ke atas ^`](#)
 Cara memainkan **Clumsy Bird** cukup dengan menekan tombol `Space` atau `left-click` untuk lompat dan tombol `M` untuk mematikan suara.
 **(MASUKKIN GAMBAR WOY LANG)**
 
 ## Pembahasan
+[`^ kembali ke atas ^`](#)
 **Clumsy Bird** ditulis dalam bahasa pemrograman `JavaScript`. **Clumsy Bird** memiliki  beberapa kelebihan, diantaranya :
        * Permainan ini cenderung mudah untuk dimainkan karena hanya cukup menekan tombol `Space` atau `left-click`.
        * Permainan ini relatif ringan untuk dijalankan sehingga tidak membutuhkan spesifikasi hardware yang tinggi.
@@ -67,6 +71,7 @@ Cara memainkan **Clumsy Bird** cukup dengan menekan tombol `Space` atau `left-cl
 Jika dibandingkan dengan aplikasi sejenis, yaitu Flappy Bird. **Clumsy Bird** yang hadir sebagai pengganti permainan terdahulunya, mampu membawa suasana permainan yang sama dengan tampilan dan gameplay yang sama dengan Flappy Bird. Tetapi, **Clumsy Bird** masih memiliki beberapa kekurangan, diantaranya **Clumsy Bird** memiliki pegerakan yang cenderung kaku, jika dibandingkan permainan Flappy Bird.  
 
 ## Referensi
+[`^ kembali ke atas ^`](#)
 1. [Clumsy Bird](https://github.com/ellisonleao/clumsy-bird) - Ellisonleao Github
 2. [Getting Started](https://gruntjs.com/getting-started) - Grunt: The JavaScript Task Runner
 3. [How to Install Node.js and NPM on Ubuntu 18.04](https://www.hostinger.com/tutorials/how-to-install-node-ubuntu) - Hostinger Tutorial
