@@ -17,8 +17,9 @@
 ```
 $ sudo apt update
 $ sudo apt install nodejs
-$ npm update -g npm
+$ sudo apt install npm
 $ sudo apt install node-grunt-cli
+$ sudo apt instal grunt
 ```
 2. Clone **Clumsy Bird** ke dalam direktory
 ```
@@ -26,7 +27,7 @@ $ git clone https://github.com/ellisonleao/clumsy-bird
 ```
 3. pindahkan direktory ke dalam folder clumsy bird
 ```
-$ cd/clumsy-bird
+$ cd clumsy-bird
 ```
 4. Install modul yang diperlukan dan masuk ke dalam grunt
 ```
