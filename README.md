@@ -6,13 +6,13 @@
 **Clumsy Bird** merupakan sebuah clone dari permainan Flappy Bird yang cukup terkenal pada tahun 2013. Permainan ini mulai dibuat clonenya pada tahun 2014 semenjak permainan Flappy Bird ditutup. Clone ini dibuat oleh contributor [ellionsonleao](https://github.com/ellisonleao). Sampai saat ini, clone tersebut masih selalu diperbaharui sehingga siapapun yang ingin memainkannya bisa langsung clone github tersebut. 
 
 ## Instalasi
-Kebutuhan Sistem:
+#### Kebutuhan Sistem:
 1. Linux
 2. Nodejs v8.10.0
 3. Grunt v1.0.4
 4. Grunt-cli v1.2.0
 
-###Proses Instalasi:
+#### Proses Instalasi:
 1. Install seluruh paket sistem yang dibutuhkan, seperti `Nodejs`, `Grunt`, dan `Grunt-cli`.
 ```
 $ sudo apt update
