@@ -3,15 +3,16 @@
 
 ## Sekilas Tentang
 
-**Clumsy Bird** merupakan sebuah clone dari permainan Flappy Bird yang cukup terkenal pada tahun 2013. Permainan ini mulai dibuat clonenya pada tahun 2014 semenjak permainan Flappy Bird ditutup. Clone ini dibuat oleh [ellionsonleao](https://github.com/ellisonleao) mulai beroperasi pada tahun 2005 sebagai proyek dari seorang murid EPITECH IT School di Paris, Perancis, yang awalnya bernama phpOpenStore. Hingga saat ini, Prestashop telah berkembang pesat dan berkomitmen untuk memberikan pengalaman berbelanja terbaik untuk para pedagang dan pelanggannya.
+**Clumsy Bird** merupakan sebuah clone dari permainan Flappy Bird yang cukup terkenal pada tahun 2013. Permainan ini mulai dibuat clonenya pada tahun 2014 semenjak permainan Flappy Bird ditutup. Clone ini dibuat oleh contributor [ellionsonleao](https://github.com/ellisonleao). Sampai saat ini, clone tersebut masih selalu diperbaharui sehingga siapapun yang ingin memainkannya bisa langsung clone github tersebut. 
 
 ## Instalasi
+Kebutuhan Sistem:
+1. Linux
+2. Nodejs 8.10.0
+3. 
 
-- Prasyarat, apa saja yang harus diinstal sebelumnya.
-- Langkah instalasi dalam CLI.
 
-
-## Konfigurasi (opsional)
+## Konfigurasi (opsional) (ELANG)
 
 Setting server tambahan yang diperlukan untuk meningkatkan fungsi dan kinerja aplikasi, misalnya:
 - batas upload file
@@ -24,7 +25,7 @@ Plugin untuk fungsi tambahan
 - dll
 
 
-##  Maintenance (opsional)
+##  Maintenance (opsional) [ELANG]
 
 Setting tambahan untuk maintenance secara periodik, misalnya:
 - buat backup database tiap pekan
@@ -32,19 +33,19 @@ Setting tambahan untuk maintenance secara periodik, misalnya:
 - dll
 
 
-## Otomatisasi (opsional)
+## Otomatisasi (opsional) [ELANG]
 
 Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 
 
-## Cara Pemakaian
+## Cara Pemakaian [ELANG]
 
 - Tampilan aplikasi web
 - Fungsi-fungsi utama
 - Isi dengan data real/dummy (jangan kosongan) dan sertakan beberapa screenshot
 
 
-## Pembahasan
+## Pembahasan (OSI)
 
 - Pendapat anda tentang aplikasi web ini
     - kelebihan
@@ -53,5 +54,5 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 
 
 ## Referensi
-
+1. []
 Cantumkan tiap sumber informasi yang anda pakai.
