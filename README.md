@@ -1,5 +1,5 @@
 # Clumsy Bird
-<h1 align="center"><img src="https://github.com/Osisuseso/Clumsy-Bird-Komdat-2020/blob/master/Images/flappy%20bird%20icon.png"></h1>
+<h1 align="center"><img src="https://github.com/Osisuseso/Clumsy-Bird-Komdat-2020/blob/master/Images/flappy%20bird%20icon.png" width="200"></h1>
 
 ## Sekilas Tentang
 
