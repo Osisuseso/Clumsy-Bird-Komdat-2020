@@ -4,7 +4,7 @@
 ## Sekilas Tentang
 
 Deskripsi singkat tentang aplikasi tsb.
-
+yay
 
 ## Instalasi
 
