@@ -40,25 +40,24 @@ $ grunt connect
 ## Pengaturan Tambahan [ELANG]
 Jika ingin mengubah tampilan dari permainan **Clumsy Bird**, dapat dilakukan dengan cara:
 1. Download gambar yang diinginkan, misal kita akan mendownload gambar untuk dijadkan background yang baru
-(MASUKKIN GAMBAR WOY LANG)
+**(MASUKKIN GAMBAR WOY LANG)**
 2. Masukkan gambar ke dalam file `clumsy-bird/data/img`
-(MASUKKIN GAMBAR WOY LANG)
+**(MASUKKIN GAMBAR WOY LANG)**
 3. Ubah nama gambar tersebut menjadi `bg.png`
-(MASUKKIN GAMBAR WOY LANG)
+**(MASUKKIN GAMBAR WOY LANG)**
 4. Jalankan `grunt connect` pada command line
-(MASUKKIN GAMBAR WOY LANG)
+**(MASUKKIN GAMBAR WOY LANG)**
 5. Setelah selesai, masuk ke alamat `http://localhost:8001/`
-(MASUKKIN GAMBAR WOY LANG)
-6. Jika ingin mengkonfigurasi gambar lainnya, lakukan hal yang sama seperti pada langkah nomor 3.
+**(MASUKKIN GAMBAR WOY LANG)**
+6. Jika ingin mengkonfigurasi gambar lainnya, ulangi langkah yang sama dengan tidak mengubah nama dan ukuran gambar asli.
+**(MASUKKIN GAMBAR WOY LANG)**
 
-## Cara Pemakaian [ELANG]
-
-- Tampilan aplikasi web
-- Fungsi-fungsi utama
-- Isi dengan data real/dummy (jangan kosongan) dan sertakan beberapa screenshot
-
+## Cara Bermain [ELANG]
+Cara memainkan **Clumsy Bird** cukup dengan menekan tombol `Space` atau `left-click` untuk lompat dan tombol `M` untuk mematikan suara.
+**(MASUKKIN GAMBAR WOY LANG)**
 
 ## Pembahasan (OSI)
+**Clumsy Bird** ditulis dalam bahasa pemrograman `Java Script`. **Clumsy Bird** memiliki  kelebihan, yaitu **Clumsy Bird** yang hadir sebagai pengganti permainan terdahulunya, yaitu Flappy Bird, mampu membawa suasana permainan yang sama dengan tampilan dan gameplay yang sama dengan Flappy Bird. Tetapi, **Clumsy Bird** masih memiliki beberapa kekurangan, diantaranya **Clumsy Bird** memiliki pegerakan yang cenderung kaku, jika dibandingkan permainan Flappy Bird.  
 
 - Pendapat anda tentang aplikasi web ini
     - kelebihan
