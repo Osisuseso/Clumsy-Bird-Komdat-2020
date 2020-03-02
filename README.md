@@ -60,8 +60,11 @@ Jika ingin mengubah tampilan dari permainan **Clumsy Bird**, dapat dilakukan den
 ## Cara Bermain
 [`^ kembali ke atas ^`](#)
 Cara memainkan **Clumsy Bird** cukup dengan menekan tombol `Space` atau `left-click` untuk lompat dan tombol `M` untuk mematikan suara.
+
 ![](https://github.com/Osisuseso/Clumsy-Bird-Komdat-2020/blob/master/Images/Gameplay%201.png)
+
 ![](https://github.com/Osisuseso/Clumsy-Bird-Komdat-2020/blob/master/Images/Gameplay%202.png)
+
 ![](https://github.com/Osisuseso/Clumsy-Bird-Komdat-2020/blob/master/Images/Gameplay%203.png)
 
 ## Pembahasan
