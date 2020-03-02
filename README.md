@@ -1,6 +1,9 @@
 # Clumsy Bird
 <h1 align="center"><img src="https://github.com/Osisuseso/Clumsy-Bird-Komdat-2020/blob/master/Images/flappy%20bird%20icon.png" width="400"></h1>
 
+[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Pengaturan Tambahan](#pengaturan-tambahan) | [Cara Bermain](#cara-bermain) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
+:---:|:---:|:---:|:---:|:---:|:---:|
+
 ## Sekilas Tentang
 
 **Clumsy Bird** merupakan sebuah clone dari permainan Flappy Bird yang cukup terkenal pada tahun 2013. Permainan ini mulai dibuat clonenya pada tahun 2014 semenjak permainan Flappy Bird ditutup. Clone ini dibuat oleh contributor [ellionsonleao](https://github.com/ellisonleao). Sampai saat ini, clone tersebut masih selalu diperbaharui sehingga siapapun yang ingin memainkannya bisa langsung clone github tersebut. 
