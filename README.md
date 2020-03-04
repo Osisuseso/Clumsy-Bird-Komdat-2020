@@ -15,7 +15,7 @@
 
 ## Sekilas Tentang
 
-**Clumsy Bird** merupakan sebuah *clone* dari permainan Flappy Bird yang cukup terkenal pada tahun 2013. Permainan ini mulai dibuat *clone*-nya pada tahun 2014 semenjak permainan Flappy Bird ditutup. *Clone* ini dibuat oleh kontributor [ellionsonleao](https://github.com/ellisonleao). Sampai saat ini, *clone* tersebut masih selalu diperbaharui sehingga siapapun yang ingin memainkannya bisa langsung *clone*you  github tersebut. 
+**Clumsy Bird** merupakan sebuah *clone* dari permainan Flappy Bird yang cukup terkenal pada tahun 2013. Permainan ini mulai dibuat *clone*-nya pada tahun 2014 semenjak permainan Flappy Bird ditutup. *Clone* ini dibuat oleh kontributor [ellionsonleao](https://github.com/ellisonleao). Sampai saat ini, *clone* tersebut masih selalu diperbaharui sehingga siapapun yang ingin memainkannya bisa langsung *clone* dari github tersebut. 
 
 ## Instalasi
 #### Kebutuhan Sistem :
